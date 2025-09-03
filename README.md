@@ -8,4 +8,4 @@ I'm a  AI researcher and developer.  Here, I share some of my research and proje
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [how-to-use-nano-banana](https://github.com/sugus-d/how-to-use-nano-banana) |Nano banana AI Usage Scenarios & Prompts | ![GitHub Repo stars](https://img.shields.io/github/stars/sugus-d/how-to-use-nano-banana) |
+| [how-to-use-nano-banana](https://github.com/sugus-d/how-to-use-nano-banana) |Nano banana AI Usage Scenarios & Prompts | ![GitHub Repo stars](https://badgen.net/github/stars/sugus-d/how-to-use-nano-banana) |
